@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 		Log.i("git","version1");
+		Log.i("git","user2: version2");
     }
 }
